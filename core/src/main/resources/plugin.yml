@@ -1,8 +1,8 @@
 name: BlockParty
 version: ${project.parent.version}
-description: Official BlockParty Plugin
+description: Unofficial patched-armageddon BlockParty Plugin
 main: de.leonkoth.blockparty.Main
-authors: [Leon167, pauhull]
+authors: [Kawlxz, Leon167, pauhull]
 website: https://github.com/Leon167/BlockParty-2.0/
 softdepend: [Multiverse-Core, ReWorld, MCJukebox, NoteBlockAPI, TimoCloud]
 
@@ -18,4 +18,4 @@ permissions:
     default: true
     description: Access to the main command.
 
-api-version: 1.13
+api-version: 1.16

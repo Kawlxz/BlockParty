@@ -1,7 +1,6 @@
 package de.leonkoth.blockparty.expansion.papi;
 
 import de.leonkoth.blockparty.arena.Arena;
-import de.leonkoth.blockparty.arena.ArenaState;
 import de.leonkoth.blockparty.player.PlayerInfo;
 import org.bukkit.entity.Player;
 
